@@ -26,10 +26,10 @@ Dropdown with options to choose from
 
 Calorie to Exercise Converter
 
-<img src="screenshots/home3.png" height="400" alt="Screenshot"/>
-
-
 <img src="screenshots/home4.png" height="400" alt="Screenshot"/>
+
+
+<img src="screenshots/home3.png" height="400" alt="Screenshot"/>
 
 
 
