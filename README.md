@@ -24,12 +24,13 @@ Dropdown with options to choose from
 
 <img src="screenshots/home2.png" height="400" alt="Screenshot"/>
 
+<img src="screenshots/home3.png" height="400" alt="Screenshot"/>
+
 Calorie to Exercise Converter
 
 <img src="screenshots/home4.png" height="400" alt="Screenshot"/>
 
 
-<img src="screenshots/home3.png" height="400" alt="Screenshot"/>
 
 
 
